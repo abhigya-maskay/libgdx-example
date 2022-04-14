@@ -1,0 +1,156 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "drop.core",
+        "directory": "/home/ave70011/learn/scala/libgdx/drop/core",
+        "workspaceDir": "/home/ave70011/learn/scala/libgdx",
+        "sources": [
+            "/home/ave70011/learn/scala/libgdx/drop/core/src"
+        ],
+        "dependencies": [
+            "drop"
+        ],
+        "classpath": [
+            "/home/ave70011/learn/scala/libgdx/.bloop/out/drop/classes",
+            "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx/1.10.0/gdx-1.10.0.jar",
+            "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx-box2d/1.10.0/gdx-box2d-1.10.0.jar",
+            "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/box2dlights/box2dlights/1.5/box2dlights-1.5.jar",
+            "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.1/scala3-library_3-3.1.1.jar",
+            "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar"
+        ],
+        "out": "/home/ave70011/learn/scala/libgdx/.bloop/out/drop.core",
+        "classesDir": "/home/ave70011/learn/scala/libgdx/.bloop/out/drop.core/classes",
+        "resources": [
+            "/home/ave70011/learn/scala/libgdx/drop/core/resources"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "3.1.1",
+            "options": [
+                
+            ],
+            "jars": [
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.1.1/scala3-compiler_3-3.1.1.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.1/scala3-library_3-3.1.1.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.1.1/scala3-interfaces-3.1.1.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.1.1/tasty-core_3-3.1.1.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.1.0-scala-1/scala-asm-9.1.0-scala-1.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar",
+                "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "options": [
+                    "-Duser.dir=/home/ave70011/learn/scala/libgdx"
+                ]
+            },
+            "mainClass": [
+                
+            ],
+            "resources": [
+                "/home/ave70011/learn/scala/libgdx/drop/core/resources"
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "com.badlogicgames.box2dlights",
+                    "name": "box2dlights",
+                    "version": "1.5",
+                    "artifacts": [
+                        {
+                            "name": "box2dlights",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/box2dlights/box2dlights/1.5/box2dlights-1.5.jar"
+                        },
+                        {
+                            "name": "box2dlights",
+                            "classifier": "sources",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/box2dlights/box2dlights/1.5/box2dlights-1.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_3",
+                    "version": "3.1.1",
+                    "artifacts": [
+                        {
+                            "name": "scala3-library_3",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.1/scala3-library_3-3.1.1.jar"
+                        },
+                        {
+                            "name": "scala3-library_3",
+                            "classifier": "sources",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.1/scala3-library_3-3.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.badlogicgames.gdx",
+                    "name": "gdx-box2d",
+                    "version": "1.10.0",
+                    "artifacts": [
+                        {
+                            "name": "gdx-box2d",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx-box2d/1.10.0/gdx-box2d-1.10.0.jar"
+                        },
+                        {
+                            "name": "gdx-box2d",
+                            "classifier": "sources",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx-box2d/1.10.0/gdx-box2d-1.10.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.badlogicgames.gdx",
+                    "name": "gdx",
+                    "version": "1.10.0",
+                    "artifacts": [
+                        {
+                            "name": "gdx",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx/1.10.0/gdx-1.10.0.jar"
+                        },
+                        {
+                            "name": "gdx",
+                            "classifier": "sources",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx/1.10.0/gdx-1.10.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.6",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

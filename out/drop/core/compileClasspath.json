@@ -1,0 +1,14 @@
+{
+    "value": [
+        "ref:c984eca8:/home/ave70011/learn/scala/libgdx/drop/resources",
+        "ref:c984eca8:/home/ave70011/learn/scala/libgdx/out/drop/compile.dest/classes",
+        "ref:788523a9:/home/ave70011/learn/scala/libgdx/drop/core/resources",
+        "qref:2d7badfa:/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx/1.10.0/gdx-1.10.0.jar",
+        "qref:088d6cbb:/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/gdx/gdx-box2d/1.10.0/gdx-box2d-1.10.0.jar",
+        "qref:7679cdd5:/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/com/badlogicgames/box2dlights/box2dlights/1.5/box2dlights-1.5.jar",
+        "qref:42e18f43:/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.1/scala3-library_3-3.1.1.jar",
+        "qref:b2b13aa5:/home/ave70011/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.6/scala-library-2.13.6.jar"
+    ],
+    "valueHash": -1381716117,
+    "inputsHash": 1862123045
+}

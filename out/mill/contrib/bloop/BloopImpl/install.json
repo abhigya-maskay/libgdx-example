@@ -1,0 +1,18 @@
+{
+    "value": [
+        [
+            "drop",
+            "ref:945aa764:/home/ave70011/learn/scala/libgdx/.bloop/drop.json"
+        ],
+        [
+            "drop.core",
+            "ref:65240e01:/home/ave70011/learn/scala/libgdx/.bloop/drop.core.json"
+        ],
+        [
+            "drop.desktop",
+            "ref:7b3a175c:/home/ave70011/learn/scala/libgdx/.bloop/drop.desktop.json"
+        ]
+    ],
+    "valueHash": 178635444,
+    "inputsHash": 704269019
+}

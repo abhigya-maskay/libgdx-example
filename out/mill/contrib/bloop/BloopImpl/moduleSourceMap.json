@@ -1,0 +1,15 @@
+{
+    "value": {
+        "drop": [
+            "/home/ave70011/learn/scala/libgdx/drop/src"
+        ],
+        "drop.core": [
+            "/home/ave70011/learn/scala/libgdx/drop/core/src"
+        ],
+        "drop.desktop": [
+            "/home/ave70011/learn/scala/libgdx/drop/desktop/src"
+        ]
+    },
+    "valueHash": -1069740996,
+    "inputsHash": -936721996
+}

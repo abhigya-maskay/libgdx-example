@@ -1,0 +1,14 @@
+{
+    "value": [
+        {
+            "analysisFile": "/home/ave70011/learn/scala/libgdx/out/drop/core/compile.dest/zinc",
+            "classes": "ref:ff48610b:/home/ave70011/learn/scala/libgdx/out/drop/core/compile.dest/classes"
+        },
+        {
+            "analysisFile": "/home/ave70011/learn/scala/libgdx/out/drop/compile.dest/zinc",
+            "classes": "ref:c984eca8:/home/ave70011/learn/scala/libgdx/out/drop/compile.dest/classes"
+        }
+    ],
+    "valueHash": -490201813,
+    "inputsHash": 1393285487
+}
